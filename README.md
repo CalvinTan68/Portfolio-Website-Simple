@@ -1,3 +1,5 @@
+Language shown by github is HTML rather than JS because the file is compiled for build
+
 ## About Project
 
 This is my personal portfolio website which is built using : 
