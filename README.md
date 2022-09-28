@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="500" src="./preview.jpeg">
+</p>
+
 Language shown by github is HTML rather than JS because the file is compiled for build
 
 ## About Project
